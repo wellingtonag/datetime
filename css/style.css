@@ -18,8 +18,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center
-    margin: 0 auto;
+    align-items: center;
 }
 
 /*clock*/
